@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://joyfuljourney.github.io
+
+# Sitemaps
+Sitemap: https://joyfuljourney.github.io/sitemap.xml
